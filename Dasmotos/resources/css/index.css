@@ -23,7 +23,7 @@ h2 {
   background-color: mediumspringgreen;
 }
 
-.pricing {
+strong.pricing {
   color: blue;
   font-weight: bold;
 }
